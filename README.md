@@ -19,4 +19,4 @@ Basic tester documents created during the 4-day QA goIT marathon
 ### [3.3 pick Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
 # 4. stories
 * [Testing Website](https://pro-test.qa.m.goit.global)
-### [notification 1]()
+### [notification 1](https://github.com/kubade220/QA-goIT-marathon/blob/main/notification%201.md)
