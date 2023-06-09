@@ -2,7 +2,7 @@
 
 ### About the project 
 
-basic tester activities
+Basic tester documents 
 
 # Table of Content
 * [* Testing Website](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917&ssid=64653721fab3d6b4a61cfff1&cookie_id=0c1a4eacd2a44d06a4c438d6b4022a6f&block_id=6430137f6358283e373277e4&leeloo_account_id=64653721fab3d6871d1cffec&utm_source=facebook&utm_medium=cpc&utm_campaign=23854716037160199%7CLV%2B%7C%2BPoland%2B%7C%2BMarathon%2BQA%2B%7C%2BAutoBid%2B%7C%2B23-40%2B%7C%2BNewCreo%7C23854716037150199%7Cmen%7C23854716037170199%7Cad1&fbclid=IwAR0leriYO8NOGfCTdkUmK9Q0SgjbYk09_Sd9F2cv-9Lg6MKM6Hw1FrA3Zn0_aem_th_ARdKP31-L3siP67_LzhFpz3d1nQV_JAQDExjMorB3mk6qogBGG7tMQW7TLNhVutr4Kkpdr6cwGWOg0CbQ_JXjzrS)
