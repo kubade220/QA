@@ -25,7 +25,7 @@
 #### [2.3 Right arrow in the navigation menu](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=432236916)
 #### [2.4 "Check" button](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1323724210)
 #### [2.5 "Reset" button ](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=650938138)
-# [3 Bug reports]()
+# [3 Bug reports](https://github.com/kubade220/QA-goIT-marathon/blob/main/Bug%20reports.md)
 #### [3.1 When you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
 #### [3.2 After presing the "check" button nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmVKmOovGBWjSoQy?e=dATUwv)
 #### [3.3 Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
