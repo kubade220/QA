@@ -1,8 +1,8 @@
 # QA goIT marathon
 
-# Project plan
+## Project plan
 
-# Plan for 4 days:
+## Plan for 4 days:
 ### 📌 Day 1, 19:00 ➝ We learn the specifications, write the first Test Cases.
 ### 📌 Day 2, 19:00 ➝ We register in Jira, continue working with our Test Cases and create a Bug Report based on them.
 ### 📌 Day 3, 19:00 ➝ We check how we are doing as real testers and receive notifications with user errors. You will need to test each one and create a Bug Report.
