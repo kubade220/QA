@@ -1,6 +1,6 @@
 # QA goIT marathon
 
-# project plan
+# Project plan
 
 # Our plan for 4 days:
 ### 📌 Day 1, 19:00 ➝ We learn the specifications, write the first Test Cases.
@@ -21,13 +21,13 @@
 ### [2.1 Changing the languange on the website](https://1drv.ms/i/s!Ags8E2N1JH7Pql65ZZBsUSAoL6Yr?e=HHmpPi)
 ### [2.2 Withdraw the question](https://1drv.ms/i/s!Ags8E2N1JH7Pql-vQwkia3E9NnTO?e=XSPcNH)
 ### [2.3 Right arrow in the navigation menu](https://1drv.ms/i/s!Ags8E2N1JH7PqmBhm4vr-8AANPfb?e=Sh2XhR)
-### [2.4 "check" button](https://1drv.ms/i/s!Ags8E2N1JH7PqmE10UFDCnqw2OWt?e=WjPmdq)
-### [2.5 Reset ](https://1drv.ms/i/s!Ags8E2N1JH7PqmJhnkgHrHCIDn4U?e=4GpLVx)
+### [2.4 "Check" button](https://1drv.ms/i/s!Ags8E2N1JH7PqmE10UFDCnqw2OWt?e=WjPmdq)
+### [2.5 "Reset" button ](https://1drv.ms/i/s!Ags8E2N1JH7PqmJhnkgHrHCIDn4U?e=4GpLVx)
 # 3. Bug reports
-### [3.1 when you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
+### [3.1 When you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
 ### [3.2 After presing the "check" button nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmVKmOovGBWjSoQy?e=dATUwv)
-### [3.3 pick Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
-# 4. stories
+### [3.3 Pick Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
+# 4. Stories
 ### [Testing Website](https://pro-test.qa.m.goit.global)
-### [notification #1](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit?usp=sharing)
+### [Notification #1](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit?usp=sharing)
 ### [Notification #3](https://docs.google.com/spreadsheets/d/e/2PACX-1vRMws7dYSwCE-EhnhMLvdW-E16F5aFw--D_noYtWlp7XSpkDXmIG04gh5nnKzm9NA/pubhtml?gid=1943108804&single=true)
