@@ -1,0 +1,5 @@
+#### [2.1 Changing the languange on the website](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit?usp=sharing&ouid=115986047958479467995&rtpof=true&sd=true)
+#### [2.2 Withdraw the question](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1134308104)
+#### [2.3 Right arrow in the navigation menu](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=432236916)
+#### [2.4 "Check" button](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1323724210)
+#### [2.5 "Reset" button ](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=650938138)
