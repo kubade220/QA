@@ -1,4 +1,4 @@
-# 4-day QA goIT marathon
+# QA goIT marathon
 
 ### project plan
 
