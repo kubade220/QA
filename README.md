@@ -27,8 +27,8 @@
 ### [3.1 When you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
 ### [3.2 After presing the "check" button nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmVKmOovGBWjSoQy?e=dATUwv)
 ### [3.3 Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
-# 4. Notification
+# 4. Bug Report
 ### [4.1 pro-test.qa.m.goit.global](https://pro-test.qa.m.goit.global)
-### [4.2 Bug report](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit?usp=sharing)
-### [4.3 Bug report](https://docs.google.com/spreadsheets/d/1BukPLsvajtmyAul2XiXDtEqj6va7cOz44Skzq24pqmE/edit?usp=sharing)
+### [4.2 The test is more than 100%](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit?usp=sharing)
+### [4.3 Can't open the full list](https://docs.google.com/spreadsheets/d/1BukPLsvajtmyAul2XiXDtEqj6va7cOz44Skzq24pqmE/edit?usp=sharing)
 
