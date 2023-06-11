@@ -1,3 +1,4 @@
+## [Test cases](https://github.com/kubade220/QA-goIT-marathon/blob/main/Test%20cases.md)
 #### [2.1 Changing the languange on the website](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit?usp=sharing&ouid=115986047958479467995&rtpof=true&sd=true)
 #### [2.2 Withdraw the question](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1134308104)
 #### [2.3 Right arrow in the navigation menu](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=432236916)
