@@ -26,7 +26,7 @@
 # 3. Bug reports
 ### [3.1 When you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
 ### [3.2 After presing the "check" button nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmVKmOovGBWjSoQy?e=dATUwv)
-### [3.3 Pick Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
+### [3.3 Withdral the question](https://1drv.ms/i/s!Ags8E2N1JH7Pqmb9kFP8gePPoPob?e=sRotkW)
 # 4. Stories
 ### [4.1 Testing Website](https://pro-test.qa.m.goit.global)
 ### [4.2 Notification #1](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit?usp=sharing)
