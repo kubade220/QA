@@ -18,11 +18,11 @@
 ### [1.5 Types and types of testing](https://github.com/kubade220/QA-goIT-marathon/blob/37ba4b8b5204ea35bd3818c702dca702bfb94cd9/Types%20and%20types%20of%20testing.pdf)
 
 # 2. Test cases
-### [2.1 Changing the languange on the website](https://1drv.ms/i/s!Ags8E2N1JH7Pql65ZZBsUSAoL6Yr?e=HHmpPi)
-### [2.2 Withdraw the question](https://1drv.ms/i/s!Ags8E2N1JH7Pql-vQwkia3E9NnTO?e=XSPcNH)
-### [2.3 Right arrow in the navigation menu](https://1drv.ms/i/s!Ags8E2N1JH7PqmBhm4vr-8AANPfb?e=Sh2XhR)
-### [2.4 "Check" button](https://1drv.ms/i/s!Ags8E2N1JH7PqmE10UFDCnqw2OWt?e=WjPmdq)
-### [2.5 "Reset" button ](https://1drv.ms/i/s!Ags8E2N1JH7PqmJhnkgHrHCIDn4U?e=4GpLVx)
+### [2.1 Changing the languange on the website](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit?usp=sharing&ouid=115986047958479467995&rtpof=true&sd=true)
+### [2.2 Withdraw the question](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1134308104)
+### [2.3 Right arrow in the navigation menu](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=432236916)
+### [2.4 "Check" button](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=1323724210)
+### [2.5 "Reset" button ](https://docs.google.com/spreadsheets/d/1ReFKkAtOp86heketPhx-ucQqLXb4OWLb/edit#gid=650938138)
 # 3. Bug reports
 ### [3.1 When you press the "EN" button to change the language, nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmTydVZJrMpAQMFL?e=WZhvvZ)
 ### [3.2 After presing the "check" button nothing happens](https://1drv.ms/i/s!Ags8E2N1JH7PqmVKmOovGBWjSoQy?e=dATUwv)
